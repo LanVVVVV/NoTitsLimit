@@ -1,6 +1,6 @@
 # NoTitsLimit
 
-NoTitsLimit is a mod for **Monster Black Market** —— removes age tits limit.
+NoTitsLimit is a mod for **Monster Black Market** —— Removes age tits limit.
 
 ### Features
 
@@ -9,7 +9,7 @@ NoTitsLimit is a mod for **Monster Black Market** —— removes age tits limit.
 
 ### Requirements
 
-| Dependency           | Version    |
-| -------------------- | ---------- |
-| MBM.ModLoader        | ≥ 0.6.0    |
-| Monster Black Market | ≥ 2.1.2.0  |
+| Dependency           | Version   | Link |
+| -------------------- | --------- | ---- |
+| Monster Black Market | ≥ 2.1.2.0 |      |
+| MBM.ModLoader        | ≥ 0.7.1   | [F95Zone](https://f95zone.to/threads/monster-black-market-mbm-modloader-0-7-1.290109/) |

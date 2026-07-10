@@ -1,0 +1,22 @@
+﻿{
+  "version": 1,
+  "author": "LanFengVVV",
+  "mods": [
+    {
+      "id": "NoTitsLimit",
+      "name": "No Tits Limit",
+      "description": "MBM.ModLoader mod for Monster Black Market — Removes age tits limit.",
+      "version": "1.0.1",
+      "package": "https://github.com/LanVVVVV/NoTitsLimit/releases/download/v1.0.1/NoTitsLimit.v1.0.1.zip",
+      "icon": "",
+      "modPortal": "https://f95zone.to/threads/monster-black-market-lanfengvvvs-mods.302098/#post-20649932",
+      "dependencies": "",
+      "gameVersion": "2.1.2.0",
+      "changelog": "",
+      "categories": [ "Content" ],
+      "tags": [ "Characters" ],
+      "downloads": 0,
+      "updated": "10.07.2026"
+    }
+  ]
+}
